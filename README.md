@@ -15,7 +15,7 @@ To use this script just download this script (minecraft.server) to your home fol
 3. To download and optionally install the latest Minecraft (you may cut and paste the line below):
 
 ```
-wget https://github.com/vonschutter/RTD-Minecraft-Server-Manager/raw/master/minecraft-server -O ~/minecraft-server && chmod +x ~/minecraft-server && ~/minecraft-server
+wget https://github.com/RunTimeData/RTD-Minecraft-Server-Manager/raw/main/minecraft-server -O ~/minecraft-server && chmod +x ~/minecraft-server && ~/minecraft-server
 ```
 
 4. Then to run the RTD-Minecraft-Server-Manager next time you want to by typing: 
@@ -24,7 +24,7 @@ wget https://github.com/vonschutter/RTD-Minecraft-Server-Manager/raw/master/mine
 ~/minecraft.server
 ```
 
-As of version 1.02 you can also launch the "minecraft.server" with the "--update" option to download the latest minecraft version automatically. 
+You can also launch the "minecraft.server" with the "--update" option to download the latest minecraft version automatically. 
 
 ```
 ~/minecraft.server --update
